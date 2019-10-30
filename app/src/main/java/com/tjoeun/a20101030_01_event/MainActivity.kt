@@ -74,6 +74,7 @@ class MainActivity : AppCompatActivity() {
             Log.d("사람이름", name)
         }
 
+        // 연습용 커밋+푸시
         for (i in 0..5){
             Log.d("숫자찍기", String.format("%d", i))
         }
